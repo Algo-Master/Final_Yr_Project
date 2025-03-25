@@ -1,6 +1,6 @@
 -- Insert into Departments (if Electrical Engineering doesn't exist)
 INSERT INTO Departments (DepartmentName) VALUES 
-('Electrical Engineering');
+('Electronics and Instrumentation Engineering');
 
 -- Insert into Students
 INSERT INTO Students (Name, RegistrationNo, EnrollmentNo, DepartmentID, CurrentSemester, Email, Address) VALUES 
